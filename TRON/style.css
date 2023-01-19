@@ -9,7 +9,7 @@ body{
 .container{
     width:100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(10, 34, 82, 0.7),rgba(4, 8, 14, 0.7)),url(/TRON/backround.jpg);
+    background-image: linear-gradient(rgba(10, 34, 82, 0.7),rgba(4, 8, 14, 0.7)),url(./images/backround.jpg);
     background-position: centre;
     background-size: cover;
     padding-left: 8%;
@@ -92,19 +92,19 @@ button:hover{
     margin-bottom: 120px;
     margin-right: -10px;
     margin-left: 100px;
-    background-image: url(/TRON/the\ grid.jpg);
+    background-image: url(./images/the\ grid.jpg);
     background-position: centre;
     background-size: cover;
     transition: transform 1s;
 }
 .card2{
-    background-image: url(/TRON/disk\ wars.png);
+    background-image: url(./images/disk\ wars.png);
 }
 .card3{
-    background-image: url(/TRON/chase.jpg);
+    background-image: url(./images/chase.jpg);
 }
 .card4{
-    background-image: url(/TRON/escape.jpg);
+    background-image: url(./images/escape.jpg);
 }
 .card:hover{
     transform: translateY(-10px);
@@ -134,7 +134,7 @@ h3{
     background-position: centre;
     background-size: cover;
     transition: transform 1s;
-    background-image: url(/TRON/pic.jpeg);
+    background-image: url(./images/pic.jpeg);
 }
 .card5:hover{
     transform: translateY(-10px);
